@@ -1,0 +1,37 @@
+{
+  "basic_info": {
+    "description": [
+      "Holaa!!.",
+      "mi nombre es Jesus Rojas.",
+      "Junior Software Developer.",
+      "Con muchas ganas de seguir aprendiendo y creciendo en este sector."
+    ],
+    "section_name": {
+      "about": "Acerca de Mi",
+      "skills": "Habilidades",
+      "experience": "Expericencia",
+      "education": "Educacion",
+      "contact": "Contacto"
+    }
+  },
+  
+  "experience": [
+    {
+      "company": "Upgrade Hub",
+      "title": "Junior Software Developer",
+      "years": "Desarrollo de proyecto: En front se usaron las siguientes tecnologías: React, Saas, Styled Component,Hooks.Y en backend se usaron las siguientes tecnologías: Express, Node JS, Mongo DB."
+    }
+  ],
+  "education": [
+    {
+      "where": "Upgrade Hub",
+      "title": "Full Stack Bootcamp",
+      "years": "2020"
+    },
+    {
+      "where": "Grupo colon",
+      "title": "C1",
+      "years": "2020"
+    }  
+  ]
+}

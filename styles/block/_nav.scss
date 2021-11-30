@@ -1,0 +1,17 @@
+header nav {
+  display: flex;
+  justify-content: space-evenly;
+
+  h2 {
+    color:green;
+    cursor: pointer;
+
+    @include desktop{
+        font-size: 30px;
+    }
+
+    &:hover {
+      color: $main;
+    }
+  }
+}
